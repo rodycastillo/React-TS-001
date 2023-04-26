@@ -17,7 +17,7 @@ A list of technologies used within the project:
 A little intro about the installation.
 
 ```
-$ git clone https://www.typescriptlang.org/docs/handbooVersion 4.9.5
+$ git clone https://github.com/rodycastillo/React-TS-001.git
 $ cd react-tasks-ap
 $ npm install
 $ npm start
